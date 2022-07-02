@@ -77,6 +77,10 @@ h1 {
     margin-inline: 3em;
 }
 
+.page-1 img {
+    padding-bottom: 3em;
+}
+
 .page-1 div {
     flex-basis: 48%;
 }
